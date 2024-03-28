@@ -1,0 +1,4 @@
+[![kragrrr's GitHub | Stats](https://stats.quine.sh/kragrrr/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kragrrr)
+[![kragrrr's GitHub | Topics Over Time](https://stats.quine.sh/kragrrr/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kragrrr)
+[![kragrrr's GitHub | Languages Over Time](https://stats.quine.sh/kragrrr/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kragrrr)
+[![kragrrr's Stack Overflow | Stats](https://stats.quine.sh/kragrrr/stack-overflow?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=kragrrr)
